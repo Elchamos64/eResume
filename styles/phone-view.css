@@ -79,3 +79,8 @@ a {
   padding-left: 30px;
   padding-right: 30px;
 }
+
+.icons a{
+  font-size: 40px;
+  color: #75E6DA;
+}
